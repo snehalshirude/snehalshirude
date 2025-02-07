@@ -1,4 +1,4 @@
-# Hi there, I'm Snehal Shirude 👋
+# Hi,👋 I'm Snehal Shirude 
 
 <!--
 **snehalshirude/snehalshirude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🔧 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw0oSSnVmO-VA941yCDOMwwQ&ust=1739016874541000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDd5erEsYsDFQAAAAAdAAAAABAE)"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Oracle%20APEX-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
