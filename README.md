@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **📫 How to reach me:snehalshirude07@gmail.com**
 
 ### 🔧 Tech Stack  
-
+![Python].(https://raw.githubusercontent.com/snehalshirude/snehalshirude/refs/heads/main/python.jfif)
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
