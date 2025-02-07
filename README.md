@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🚀 About Me  
-💻 **Computer Engineer** with a passion for **Data Analysis, Web Development**   
-🌱 I’m currently learning Machine Learning. 
-📫 How to reach me:snehalshirude07@gmail.com
+-💻 **Computer Engineer** with a passion for **Data Analysis, Web Development**   
+-🌱 I’m currently learning Machine Learning. 
+-📫 How to reach me:snehalshirude07@gmail.com
 
 ### 🔧 Tech Stack  
 <p align="center">
