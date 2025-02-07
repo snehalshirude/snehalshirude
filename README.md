@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 **Computer Engineer** with a passion for Data Analysis and Web Developement.  
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me:snehalshirude07@gmail.com
-## 🔧 Tech Stack  
+### 🔧 Tech Stack  
 <p>
   <img src="https://github.com/snehalshirude/snehalshirude/blob/main/python.jfif" alt="Python" width="50" height="50"/>
   <img src="https://github.com/snehalshirude/snehalshirude/blob/main/sql.png" alt="SQL" width="50" height="50"/>
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/snehalshirude/snehalshirude/blob/main/data%20analysis.png" alt="Data Analysis" width="50" height="50"/>
 </p>
 
-## 📫 Connect with Me  
+### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehal-shirude-5a3a6221a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
