@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 
 ### 🔧 Tech Stack  
 <p align="center">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw0oSSnVmO-VA941yCDOMwwQ&ust=1739016874541000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDd5erEsYsDFQAAAAAdAAAAABAE)"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle%20APEX-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="D:\icon\python.jfif" alt="Python" width="50" height="50"/>
+  <img src="https://your-image-url/django.png" alt="Django" width="50" height="50"/>
+  <img src="https://your-image-url/powerbi.png" alt="Power BI" width="50" height="50"/>
+  <img src="https://your-image-url/oracle-apex.png" alt="Oracle APEX" width="50" height="50"/>
+  <img src="https://your-image-url/sql.png" alt="SQL" width="50" height="50"/>
+  <img src="https://your-image-url/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://your-image-url/linux.png" alt="Linux" width="50" height="50"/>
+  <img src="https://your-image-url/data-analysis.png" alt="Data Analysis" width="50" height="50"/>
+  <img src="https://your-image-url/web-development.png" alt="Web Development" width="50" height="50"/>
 </p>
 
 ### 📫 Connect with Me  
