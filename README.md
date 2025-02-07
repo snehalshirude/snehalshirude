@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 About Me  
+### 👋 About Me  
 - 🎓 **Computer Engineer** with a passion for Data Analysis and Web Developement.  
 - 🌱 I’m currently learning **Machine Learning**
 - 📫 How to reach me:snehalshirude07@gmail.com
